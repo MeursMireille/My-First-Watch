@@ -1,2 +1,2 @@
-# My-First-Watch
+# The Watch
 Work breakdown structure
